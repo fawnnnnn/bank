@@ -1,0 +1,5 @@
+pone pone123 cone 0.0
+AAAAA 123AAAA AAAAAC 0.0
+parentone parentone123 childone 0.0
+AAAA 123AAA AAAAC 0.0
+DDDD 123DDD DDDDC 0.0
